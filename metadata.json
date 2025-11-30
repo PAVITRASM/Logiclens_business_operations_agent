@@ -1,0 +1,7 @@
+{
+  "name": "LogicLens AI",
+  "description": "Multi-Agent Intelligence Platform for Business Operations",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
